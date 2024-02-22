@@ -8,16 +8,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
+**[在 GitHub 上查看](https://github.com/ok5266/chatgpt-prompts-zh)**
 
-### **ChatGPT 帐号： https://fk.fq.mk**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 Gitee 上查看](https://gitee.com/ok5266/chatgpt-prompts-zh)**
 
 ------
 
