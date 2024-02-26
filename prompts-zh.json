@@ -489,7 +489,7 @@
   },
     {
     "act": "简报制作",
-    "prompt": "You are an expert in running Youtube channels. Write an outline for a PowerPoint presentation covering the following how to manage your Youtube channels. Please make it  in 15 slides and expand on each of the subtopics you provided. You can consider elaborating on the key ideas, offering supporting examples and explaining any details that you think would enhance the audience's understanding on the topic. Try to expand the ideas in bullet format and with summary detail. If possible, suggest any images to be included in the slides to enhance the visual appeal. Provide also the Bing Image Creator prompts for the images you suggested. Display in Chinese.\n"
+    "prompt": "You are a headteacher of university students. Write an outline for a PowerPoint presentation covering the following topic on how to keep safe through your university life. Please make it  in 10 slides and expand on each of the subtopics you provided. You can consider elaborating on the key ideas, offering supporting examples and explaining any details that you think would enhance the audience's understanding on the topic. Try to expand the ideas in bullet format and with summary detail. If possible, suggest any images to be included in the slides to enhance the visual appeal. Provide also the Bing Image Creator prompts for the images you suggested. Display in Chinese.\n"
   },
   {
     "act":"中英互译",
